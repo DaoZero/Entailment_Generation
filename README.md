@@ -1,3 +1,3 @@
 # Entailment_Generation
 
-This is a entailment generation system wrote in PyTorch
+This is an entailment generation system wrote in PyTorch
